@@ -18,4 +18,4 @@ O projeto foi realizado em fevereiro de 2024 e contou com a colaboração de 4 i
 
 # Como rodar
 
-> Clique [aqui](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada/main/wine_analysis.ipynb) e visualize as análises realizadas.
+> Clique [aqui](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada/blob/main/wine_analysis.ipynb) e visualize as análises realizadas.
